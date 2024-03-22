@@ -3,8 +3,6 @@
 ## Integrantes do grupo.
 - Victor Nemeth Jurado : victor.jurado@aluno.faculdadeimpacta.com.br
 
-- Jonanthan de Lima Feitosa : jonanthan.feitosa@aluno.faculdadeimpacta.com.br
-
 ## Link do Board:
 - https://github.com/users/VictorJurado18/projects/3
 
